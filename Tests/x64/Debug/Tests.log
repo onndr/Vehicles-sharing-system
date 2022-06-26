@@ -1,0 +1,5 @@
+﻿  ParkingTests.cpp
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Tests\ParkingTests.cpp(94,1): warning C4305: 'argument': truncation from '__int64' to 'unsigned int'
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Tests\ParkingTests.cpp(94,38): warning C4309: 'argument': truncation of constant value
+     Creating library C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\App\x64\Debug\Tests.lib and object C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\App\x64\Debug\Tests.exp
+  Tests.vcxproj -> C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\App\x64\Debug\Tests.dll

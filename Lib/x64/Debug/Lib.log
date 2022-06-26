@@ -1,0 +1,13 @@
+﻿  Bicycle.cpp
+  Currency.cpp
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Lib\Currency.cpp(81,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Lib\Currency.cpp(83,15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Location.cpp
+  Parking.cpp
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Lib\Parking.cpp(42,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TransportCar.cpp
+  User.cpp
+  Generating Code...
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Lib\Parking.cpp(52): warning C4172: returning address of local variable or temporary: p
+C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\Lib\Parking.cpp(124): warning C4172: returning address of local variable or temporary: tmp
+  Lib.vcxproj -> C:\Users\onndr\Downloads\Studies\Semester2\PROI\209.x-rowery-miejskie\App\x64\Debug\Lib.lib

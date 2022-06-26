@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Jurij",
+    "cur": {
+      "code": "UAH",
+      "intP": 1500,
+      "fractP": 18
+    }
+  },
+  {
+    "id": 2,
+    "name": "Andrij",
+    "cur": {
+      "code": "UAH",
+      "intP": 400,
+      "fractP": 22
+    }
+  },
+  {
+    "id": 3,
+    "name": "Oleksij",
+    "cur": {
+      "code": "USD",
+      "intP": 70,
+      "fractP": 12
+    }
+  },
+  {
+    "id": 4,
+    "name": "Viktor",
+    "cur": {
+      "code": "PLN",
+      "intP": 100,
+      "fractP": 35
+    }
+  },
+  {
+    "id": 5,
+    "name": "Olena",
+    "cur": {
+      "code": "UAH",
+      "intP": 803,
+      "fractP": 25
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mykhaylo",
+    "cur": {
+      "code": "EUR",
+      "intP": 12,
+      "fractP": 10
+    }
+  },
+  {
+    "id": 6,
+    "name": "No money",
+    "cur": {
+      "code": "EUR",
+      "intP": 0,
+      "fractP": 0
+    }
+  }
+]
