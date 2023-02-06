@@ -1,4 +1,6 @@
-# 209.x rowery miejskie
+# PROI bike sharing system
+
+A project on 2 semester at WUT
 
 General project structure diagram:
 ![Project structure diagram](diagram.drawio.png?raw=true "Title")
